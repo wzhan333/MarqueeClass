@@ -8,4 +8,4 @@ st.multiselect("Pick a category", categories)
 st.sidebar.button("Click me!")
 
 if st.checkbox("Select me!):
-  st. write("you selected the check box!")
+               st. write("you selected the check box!")

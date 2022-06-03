@@ -4,3 +4,8 @@ st.header('Header')
 
 categories = ['a', 'b', 'c']
 st.multiselect("Pick a category", categories)
+
+st.buttin("Click me!")
+
+if st.checkbox("Select me!):
+               st. write("you selected the check box!")
